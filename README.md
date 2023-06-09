@@ -1,6 +1,6 @@
 # Basic Recipe Website
 
-This is a basic recipe website that I am building in my quest to learn more about web development.
+This is a basic recipe website that I built in my quest to learn more about web development.
 
 This project will serve as a demonstration of my HTML skills thus far.
 
